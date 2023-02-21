@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<users>
+
+	<user id="1">
+		<type user_type="prof"/>
+		<name>jones</name>
+		<number>12345</number>
+		<surname>kappa</surname>
+		<gender gender="M" />
+		<birth_date>21:10:1989</birth_date>
+		<nationality>Lisbon</nationality>
+
+		<language lang="pt">pt</language>
+		<address>Lisboa, Chelas Rua dos gafanhotos número 75</address>
+		<email>jonesjones@gmail.com</email>
+		<telephone>938291934</telephone>
+		<photograph>placeholder_photo</photograph>
+		<password>pass</password>
+
+
+	
+	</user>
+
+	<user id="2">
+		<type user_type="student" />
+		<name>tavora</name>
+		<number>34532</number>
+		<surname>kappa3</surname>
+		<gender gender="M" />
+		<birth_date>21:10:1969</birth_date>
+		<nationality>Portugal</nationality>
+		<language lang="pt">pt</language>
+		<address>Leiria, Fábrica da Borracha</address>
+		<email>pivias@gmail.com</email>
+		<telephone>9382911934</telephone>
+		<photograph>placeholder_photo</photograph>
+		<password>pass</password>
+
+		<userChats>
+
+			<chat id="1" />
+			<chat id="2" />
+
+		</userChats>
+
+
+	</user>
+
+	<user id="3">
+		<type user_type="student" />
+		<name>Boi</name>
+		<number>33532</number>
+		<surname>Pequeno</surname>
+		<gender gender="M" />
+		<birth_date>21:10:1969</birth_date>
+		<nationality>Portugal</nationality>
+		<language lang="pt" />
+		<address>Valpaços</address>
+		<email>primadotavora@gmail.com</email>
+		<telephone>9382911934</telephone>
+		<photograph>placeholder_photo</photograph>
+		<password>pass</password>
+
+
+		<userChats>
+
+			<chat id="1" />
+			<chat id="2" />
+
+		</userChats>
+
+
+
+	</user>
+
+
+
+
+
+</users>
