@@ -9,4 +9,6 @@ Licenciatura Engenharia Informática e Multimédia - ISEL
 
 * phpMyAdmin was used to manage the database
 * The Website was developed with PHP
+* HTML, JavaScript, CSS were used in the development of the project
+
 
