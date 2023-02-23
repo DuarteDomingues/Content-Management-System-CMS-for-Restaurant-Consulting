@@ -1,4 +1,4 @@
-# content-management-system-CMS-for-Restaurant-Consulting
+# Content-management-system-CMS-for-Restaurant-Consulting
 Content Management System (CMS) that allows the management and search of restaurants based on location, categories and name in php
 
 ### Final project of the subject SMI (Sistemas Multimédia Para a Internet)
